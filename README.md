@@ -45,3 +45,4 @@
 <img src="https://i.imgur.com/wiIFJ9I.png" alt="Application Screenshot">
 <img src="https://i.imgur.com/GN8WLw8.png" alt="Application Screenshot">
 <img src="https://i.imgur.com/tWRyvuT.png" alt="Application Screenshot">
+<img src="https://i.imgur.com/7rTRuAO.png" alt="Application Screenshot">
