@@ -1,2 +1,2 @@
-# YanakStealer
-Yanak Stealer is undetectable stealer It steals passwords, cookies, autofill data, sessions, and tokens. Capable of targeting platforms like Instagram, Twitter, TikTok, Twitch, Spotify, Riot Games, Reddit, Roblox, and Steam.
+<h1 align="center"> Yanak Stealer </h1> 
+<p align= "center"> <kbd> <img  src="https://i.imgur.com/MjoICHp.png"width="420"> </kbd><br><br>
