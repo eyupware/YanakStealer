@@ -38,3 +38,11 @@
   <li>:rocket: <strong>Startup Methods</strong>  - Use from schtask or regedit or folder startup options for startup.</li>
   <li>:no_entry_sign: <strong>Anti-VM</strong> - It uses 12 different Anti-VM methods for enhanced security.</li>
 </ul>
+
+<!-- Screenshots Section -->
+<h2 id="screenshots">Screenshots :camera_with_flash:</h2>
+<img src="https://i.imgur.com/eULmpU8.png" alt="Application Screenshot">
+<img src="https://i.imgur.com/wiIFJ9I.png" alt="Application Screenshot">
+<img src="https://i.imgur.com/GN8WLw8.png" alt="Application Screenshot">
+<img src="https://i.imgur.com/tWRyvuT.png" alt="Application Screenshot">
+<img src="https://i.imgur.com/7rTRuAO.png" alt="Application Screenshot">
