@@ -1,6 +1,14 @@
 <h1 align="center"> Yanak Stealer </h1> 
 <p align= "center"> <kbd> <img  src="https://i.imgur.com/vdx0bmz.png"width="420"> </kbd><br><br>
 
+<!-- Table of Contents -->
+<h2>Table of Contents</h2>
+<ul>
+  <li><a href="#features">Features</a></li>
+  <li><a href="#builder-settings">Builder Settings</a></li>
+  <li><a href="#screenshots">Screenshots</a></li>
+</ul>
+
 <h2 id="features">Features 🐭</h2>
 <ul>
   <li>:page_with_curl: <strong>Fake Error</strong> - Create fake error messages.</li>
