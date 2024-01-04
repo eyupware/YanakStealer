@@ -29,6 +29,16 @@
   <li>:speech_balloon: <strong>Reddit Session Stealer & Validator</strong> - Steals and validate Reddit sessions.</li>
   <li>:video_game: <strong>Roblox Session Stealer & Validator</strong> - Steals and validate Roblox sessions.</li>
   <li>:video_game: <strong>Steam Session Stealer & Validator</strong> - Steals and validate Steam sessions.</li>
+
+  
+<!-- Builder Settings Section -->
+<h2 id="builder-settings">Builder Settings :wrench:</h2>
+<p>Yanak Stealer's builder provides the following options:</p>
+<ul>
+  <li>:twisted_rightwards_arrows: <strong>Realtime Obfuscation</strong> - Applies real-time obfuscation techniques.</li>
+  <li>:rocket: <strong>Startup Methods</strong>  - Use from schtask or regedit or folder startup options for startup.</li>
+  <li>:no_entry_sign: <strong>Anti-VM</strong> - It uses 12 different Anti-VM methods for enhanced security.</li>
+</ul>
   <li>:video_game: <strong>Growtopia save.dat Stealer</strong> - Steals Growtopia save.dat.</li>
   <li>:telephone_receiver: <strong>Discord Token Stealer</strong> - Steals Discord tokens.</li>
   <li>:computer: <strong>System Info Stealer</strong> - Steals system information.</li>
