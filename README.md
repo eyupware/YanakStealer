@@ -40,7 +40,7 @@
 </ul>
 
 <!-- Screenshots Section -->
-<h2 id="screenshots">Screenshots :camera_with_flash:</h2>
+<h2 id="screenshots">Screenshots 📸</h2>
 <img src="https://i.imgur.com/eULmpU8.png" alt="Application Screenshot">
 <img src="https://i.imgur.com/wiIFJ9I.png" alt="Application Screenshot">
 <img src="https://i.imgur.com/GN8WLw8.png" alt="Application Screenshot">
