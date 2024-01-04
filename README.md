@@ -1,7 +1,7 @@
 <h1 align="center"> Yanak Stealer </h1> 
 <p align= "center"> <kbd> <img  src="https://i.imgur.com/vdx0bmz.png"width="420"> </kbd><br><br>
 
-<p align= "center"> <kbd> <img  src="https://discord.c99.nl/widget/theme-3/919272690500661268.png"width="260"> </kbd><br><br>
+<p align= "center"> <kbd> <img  src="https://discord.c99.nl/widget/theme-3/919272690500661268.png"width="320"> </kbd><br><br>
 
 <!-- Table of Contents -->
 <h2>Table of Contents</h2>
